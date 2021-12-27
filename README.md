@@ -30,5 +30,9 @@ Policy A
 
 ### Environment disturbances
 Policy A  
-The forth car on the outside lane of the incoming east road has the accident.  
+The fourth car on the outside lane of the incoming east road has the accident.  
 ![image](https://github.com/YueZhu95/Intelligent-Traffic-Light-via-Reinforcement-Learning/blob/main/PA_inc_gif.gif) 
+
+Predefined  
+The fourteenth car on the inside lane of the incoming east road has the accident.  
+![image](https://github.com/YueZhu95/Intelligent-Traffic-Light-via-Reinforcement-Learning/blob/main/Predefined_inc_gif.gif) 
