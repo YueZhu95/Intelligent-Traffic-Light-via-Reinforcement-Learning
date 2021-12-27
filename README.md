@@ -42,3 +42,8 @@ Predefined
 
 Policy A  
 ![image](https://github.com/YueZhu95/Intelligent-Traffic-Light-via-Reinforcement-Learning/blob/main/PA_act_gif.gif) 
+
+### Unbalanced traffic flows
+#### Policy A for unbalanced traffic flow
+
+#### policy A and D for extremely unbalanced traffic flow
