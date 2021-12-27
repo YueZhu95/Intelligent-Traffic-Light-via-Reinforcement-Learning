@@ -23,3 +23,6 @@ DQN
 
 Policy B  
 ![image](https://github.com/YueZhu95/Intelligent-Traffic-Light-via-Reinforcement-Learning/blob/main/ppo_fix_gif2.gif) 
+
+### Traffic light phases with variable intervals: Policy A
+Policy A  
