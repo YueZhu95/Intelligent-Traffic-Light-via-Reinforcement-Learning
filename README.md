@@ -27,7 +27,7 @@ Policy A
 
 ### Environment disturbances
 
-The environment disturbance is due to the occurrence of traffic collisions. A traffic collision stays for 300 seconds, then the vehicles involved in the crash are removed and have no further impact on the traffic flow.
+The environment disturbance is due to the occurrence of traffic collisions. There is a 2% probability with which a driver may not follow the traffic laws and cause the crash. A traffic collision stays for 300 seconds, then the vehicles involved in the crash are removed and have no further impact on the traffic flow.
 
 Policy A  
 The fourth car on the outside lane of the incoming east road has the accident.  
