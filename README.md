@@ -37,4 +37,6 @@ Predefined
 The fourteenth car on the inside lane of the incoming east road has the accident.  
 ![image](https://github.com/YueZhu95/Intelligent-Traffic-Light-via-Reinforcement-Learning/blob/main/Predefined_inc_gif.gif) 
 
-### Action disturbances (10%): predefined policy, Policy A
+### Action disturbances (10%): Predefined policy, Policy A
+Policy A  
+![image](https://github.com/YueZhu95/Intelligent-Traffic-Light-via-Reinforcement-Learning/blob/main/PA_act_gif.gif) 
