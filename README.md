@@ -26,3 +26,4 @@ Policy B
 
 ### Traffic light phases with variable intervals: Policy A
 Policy A  
+![image](https://github.com/YueZhu95/Intelligent-Traffic-Light-via-Reinforcement-Learning/blob/main/ppo_var_gif2.gif) 
