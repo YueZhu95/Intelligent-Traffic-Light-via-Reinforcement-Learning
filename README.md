@@ -18,7 +18,6 @@ Predefined
 ![image](https://github.com/YueZhu95/Intelligent-Traffic-Light-via-Reinforcement-Learning/blob/main/predefined_gif.gif) 
 
 DQN  
-
 ![image](https://github.com/YueZhu95/Intelligent-Traffic-Light-via-Reinforcement-Learning/blob/main/dqn_gif2.gif) 
 
 Policy B  
