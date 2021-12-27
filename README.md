@@ -43,6 +43,7 @@ Policy A
 
 ### Unbalanced traffic flows
 Policy A for unbalanced traffic flow  
+![image](https://github.com/YueZhu95/Intelligent-Traffic-Light-via-Reinforcement-Learning/blob/main/PA_unb_gif.gif) 
 
 Policy A for extremely unbalanced traffic flow  
 
