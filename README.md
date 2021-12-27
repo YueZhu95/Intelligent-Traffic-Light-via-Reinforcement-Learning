@@ -15,7 +15,7 @@ The balanced flow rates are applied within the first 500 seconds. Then, the flow
 
 ### Intelligent traffic lights trained via different DRL methods: DQN and Policy B, and Predefined traffic light
 Predefined  
-
+![image](https://github.com/YueZhu95/Intelligent-Traffic-Light-via-Reinforcement-Learning/blob/main/predefined_gif.gif) 
 
 Policy B  
 ![image](https://github.com/YueZhu95/Intelligent-Traffic-Light-via-Reinforcement-Learning/blob/main/ppo_fix_gif2.gif) 
