@@ -17,7 +17,7 @@ Policy A vs Policy B. (Policy A: variable time interval. Policy B: fixed time in
 Policy A  
 ![image](https://github.com/YueZhu95/Intelligent-Traffic-Light-via-Reinforcement-Learning/blob/main/ppo_var_gif.gif) 
 Policy B  
-![image](https://github.com/YueZhu95/Intelligent-Traffic-Light-via-Reinforcement-Learning/blob/main/ppo_fix_gif.gif) 
+![image](https://github.com/YueZhu95/Intelligent-Traffic-Light-via-Reinforcement-Learning/blob/main/ppo_fix_gif2.gif) 
 
 Policy A in the scenario of environment disturbance on an incoming road. (A collision on the incoming east road.)
 ![image](https://github.com/YueZhu95/Intelligent-Traffic-Light-via-Reinforcement-Learning/blob/main/ppo_inc_gif.gif)
