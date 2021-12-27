@@ -9,9 +9,7 @@ Policy A: intelligent traffic light with PPO for the traffic light phases with f
 
 Policy B: intelligent traffic light with PPO for the traffic light phases with variable time intervals.  
 
-Policy D: trained in the scenario of unbalanlced traffic flow rates based on intelligent traffic light with PPO for the traffic light phases with fixed time intervals.
-
-The balanced flow rates are applied within the first 500 seconds. Then, the flow rates in the incoming east road are reduced by three-fourth for another 500 seconds while the flow rates keep the same in other incoming roads. At last, during the third 500 seconds, the flow rates in the incoming east road are back to normal while the other incoming roads’ flow rates are reduced by three-fourth.
+Policy D: trained in the scenario of unbalanlced traffic flow rates based on intelligent traffic light with PPO for the traffic light phases with fixed time intervals.(The balanced flow rates are applied within the first 500 seconds. Then, the flow rates in the incoming east road are reduced by three-fourth for another 500 seconds while the flow rates keep the same in other incoming roads. At last, during the third 500 seconds, the flow rates in the incoming east road are back to normal while the other incoming roads’ flow rates are reduced by three-fourth.)
 
 ### Intelligent traffic lights trained via different DRL methods: DQN and Policy B, and Predefined traffic light
 Predefined  
