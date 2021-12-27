@@ -1,7 +1,7 @@
 # Intelligent-Traffic-Light-via-Reinforcement-Learning
 All the videos are played at 15x speed.
 
-Cars with colors of blue, red, green, and yellow are for straight, left-turn, right-turn, and U-turn.
+Cars with colors of purple, red, green, and yellow are for straight, left-turn, right-turn, and U-turn.
 
 Predefined: repeatedly loop the traffic light phase from the first phase to the last one.  
 
