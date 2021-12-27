@@ -26,6 +26,9 @@ Policy A
 ![image](https://github.com/YueZhu95/Intelligent-Traffic-Light-via-Reinforcement-Learning/blob/main/ppo_vari_gif.gif) 
 
 ### Environment disturbances
+
+The environment disturbance is due to the occurrence of traffic collisions. A traffic collision stays for 300 seconds, then the vehicles involved in the crash are removed and have no further impact on the traffic flow.
+
 Policy A  
 The fourth car on the outside lane of the incoming east road has the accident.  
 ![image](https://github.com/YueZhu95/Intelligent-Traffic-Light-via-Reinforcement-Learning/blob/main/PA_inc_gif.gif) 
@@ -35,6 +38,9 @@ The fourteenth car on the inside lane of the incoming east road has the accident
 ![image](https://github.com/YueZhu95/Intelligent-Traffic-Light-via-Reinforcement-Learning/blob/main/Predefined_inc_gif.gif) 
 
 ### Action disturbances (10%): Predefined policy, Policy A
+
+Action disturbances can happen due to the malfunction of the traffic light. After a light phase is determined, the traffic light has a probability of 90 percent to switch to the desired light phase and a probability of 10 percent to switch to one of the other phases randomly.
+
 Predefined  
 ![image](https://github.com/YueZhu95/Intelligent-Traffic-Light-via-Reinforcement-Learning/blob/main/Predefined_act_gif.gif) 
 
@@ -42,8 +48,13 @@ Policy A
 ![image](https://github.com/YueZhu95/Intelligent-Traffic-Light-via-Reinforcement-Learning/blob/main/PA_act_gif.gif) 
 
 ### Unbalanced traffic flows
+
+The balanced flow rates are applied within the first 500 seconds. Then, the flow rates in the incoming east road are reduced by three-fourth for another 500 seconds while the flow rates keep the same in other incoming roads. At last, during the third 500 seconds, the flow rates in the incoming east road are back to normal while the other incoming roads’ flow rates are reduced by three-fourth.
+
 Policy A for unbalanced traffic flow  
 ![image](https://github.com/YueZhu95/Intelligent-Traffic-Light-via-Reinforcement-Learning/blob/main/PA_unb_gif.gif) 
+
+The extremely unbalanced traffic flows have zero incoming traffic flow rates on the incoming east and south roads.
 
 Policy A for extremely unbalanced traffic flow  
 ![image](https://github.com/YueZhu95/Intelligent-Traffic-Light-via-Reinforcement-Learning/blob/main/PA_exunb_gif.gif) 
