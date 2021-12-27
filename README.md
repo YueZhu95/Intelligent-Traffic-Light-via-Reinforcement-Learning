@@ -1,6 +1,8 @@
 # Intelligent-Traffic-Light-via-Reinforcement-Learning
 All the videos are played at 15x speed.
 
+Cars with colors of blue, red, green, and yellow are for straight, left-turn, right-turn, and U-turn.
+
 Policy A vs Policy B. (Policy A: variable time interval. Policy B: fixed time interval.)  
 Policy A  
 ![image](https://github.com/YueZhu95/Intelligent-Traffic-Light-via-Reinforcement-Learning/blob/main/ppo_var_gif.gif) 
