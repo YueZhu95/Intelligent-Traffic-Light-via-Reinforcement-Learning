@@ -5,11 +5,11 @@ Cars with colors of purple, red, green, and yellow are for straight, left-turn, 
 
 Predefined: repeatedly loop the traffic light phase from the first phase to the last one.  
 
-Policy A: intelligent traffic light with PPO for the traffic light phases with fixed time intervals.  
+Policy A: intelligent traffic light with PPO for the traffic light phases with variable time intervals trained in the scenario of balanced traffic.  
 
-Policy B: intelligent traffic light with PPO for the traffic light phases with variable time intervals.  
+Policy B: intelligent traffic light with PPO for the traffic light phases with fixed time intervals trained in the scenario of balanced traffic.  
 
-Policy D: trained in the scenario of unbalanlced traffic flow rates based on intelligent traffic light with PPO for the traffic light phases with fixed time intervals.(The balanced flow rates are applied within the first 500 seconds. Then, the flow rates in the incoming east road are reduced by three-fourth for another 500 seconds while the flow rates keep the same in other incoming roads. At last, during the third 500 seconds, the flow rates in the incoming east road are back to normal while the other incoming roads’ flow rates are reduced by three-fourth.)
+Policy D: trained in the scenario of complex traffic flows consisting of balanced and unbalanced traffic based on intelligent traffic light with PPO for the traffic light phases with variable time intervals.(The balanced flow rates are applied within the first 500 seconds. Then, the flow rates in the incoming east road are reduced by three-fourth for another 500 seconds while the flow rates keep the same in other incoming roads. At last, during the third 500 seconds, the flow rates in the incoming east road are back to normal while the other incoming roads’ flow rates are reduced by three-fourth.)
 
 ### Intelligent traffic lights trained via different DRL methods
 Predefined (Vehicle passing time (s): 1800, Vehicle waiting time (s): 132713)  
@@ -51,7 +51,7 @@ Policy A (Vehicle passing time (s): 1187, Vehicle waiting time (s): 58389)
 
 The balanced flow rates are applied within the first 500 seconds. Then, the flow rates in the incoming east road are reduced by three-fourth for another 500 seconds while the flow rates keep the same in other incoming roads. At last, during the third 500 seconds, the flow rates in the incoming east road are back to normal while the other incoming roads’ flow rates are reduced by three-fourth.
 
-Policy A for unbalanced traffic flow (Vehicle passing time (s): 3041, Vehicle waiting time (s): 233483)  
+Policy A for complex traffic flows (Vehicle passing time (s): 3041, Vehicle waiting time (s): 233483)  
 ![image](https://github.com/YueZhu95/Intelligent-Traffic-Light-via-Reinforcement-Learning/blob/main/PA_unb_gif.gif) 
 
 The extremely unbalanced traffic flows have zero incoming traffic flow rates on the incoming east and south roads.
