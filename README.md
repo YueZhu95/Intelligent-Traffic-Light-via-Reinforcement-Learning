@@ -1,4 +1,7 @@
 # Intelligent-Traffic-Light-via-Reinforcement-Learning
+Thesis videos are for the paper: Intelligent Traffic Light via Policy-based Deep Reinforcement Learning. The URL for the paper is shown below:  
+http://arxiv.org/abs/2112.13817
+
 All the videos are played at 15x speed.
 
 Cars with colors of purple, red, green, and yellow are for straight, left-turn, right-turn, and U-turn.
