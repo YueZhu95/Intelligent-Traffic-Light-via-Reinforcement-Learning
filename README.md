@@ -30,7 +30,7 @@ Policy A (Vehicle passing time (s): 1076, Vehicle waiting time (s): 55028)
 
 ### Environment disturbances
 
-The environment disturbance is due to the occurrence of traffic collisions. There is a 2% probability with which a driver may not follow the traffic laws and cause the crash. A traffic collision stays for 300 seconds, then the vehicles involved in the crash are removed and have no further impact on the traffic flow. Here shows the videos of the traffic collisions on an incoming road.
+The environment disturbance is due to the occurrence of traffic collisions. There is a 0.2% probability with which a driver may not follow the traffic laws and cause the crash. A traffic collision stays for 300 seconds, then the vehicles involved in the crash are removed and have no further impact on the traffic flow. Here shows the videos of the traffic collisions on an incoming road.
 
 Predefined (Vehicle passing time (s): 1820, Vehicle waiting time (s): 135117)  
 The fourteenth car on the inside lane of the incoming east road has the accident.  
